@@ -12,7 +12,12 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'A Test recipe',
       'This is my test recipe',
-      'https://img.bestrecipes.com.au/R_L8NQYW/w643-h428-cfill-q90/br/2018/05/nannas-golden-sausage-casserole-recipe-522926-1.jpg'
+      'https://upload.wikimedia.org/wikipedia/commons/1/15/Recipe_logo.jpeg'
+    ),
+    new Recipe(
+      'A Test recipe',
+      'This is my test recipe',
+      'https://upload.wikimedia.org/wikipedia/commons/1/15/Recipe_logo.jpeg'
     ),
   ];
   // import the recipe model
